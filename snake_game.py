@@ -16,7 +16,7 @@ import random
 
 # ================= Configuration =================
 WINDOW_WIDTH = 8000
-WINDOW_HEIGHT = 8000
+WINDOW_HEIGHT = 680
 ARENA_SIZE = 560  # Playable square area: -280 to +280 on X and -300 to +260 on Y
 GRID_SIZE = 20
 INITIAL_DELAY = 0.11
